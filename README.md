@@ -4,7 +4,9 @@ We hope you'll use it to check our work and to create stories and visualizations
 
 Article Date(s) | Headline(s) | Folder
 ---|---------|-------------
+Oct. 6, 2016 | [A Handful Of Cities Are Driving 2016’s Rise In Murders](http://fivethirtyeight.com/features/a-handful-of-cities-are-driving-2016s-rise-in-murders/) | `murder_2016`
 Sept. 16, 2016 | [When Does Praying In Public Make Others Uncomfortable?](http://fivethirtyeight.com/features/when-does-praying-in-public-make-others-uncomfortable/) | `religion-survey`
+Sept. 8, 2016 | [The Rams Are Dead To Me, So I Answered 3,352 Questions To Find A New NFL Team](http://fivethirtyeight.com/features/the-rams-are-dead-to-me-so-i-answered-3352-questions-to-find-a-new-team/) | `nfl-favorite-team`
 July 14, 2016 | [Hip-Hop Is Turning On Donald Trump](http://projects.fivethirtyeight.com/clinton-trump-hip-hop-lyrics/) | `hip-hop-candidate-lyrics`
 June 2, 2016 | [FiveThirtyEight's Pollster Ratings](http://projects.fivethirtyeight.com/pollster-ratings/) | `pollster-ratings`
 May 13, 2016 | [Some People Are Too Superstitious To Have A Baby On Friday The 13th](http://fivethirtyeight.com/features/some-people-are-too-superstitious-to-have-a-baby-on-friday-the-13th/) | `births`
@@ -21,7 +23,7 @@ Nov. 5, 2015 | [College Students Aren’t The Only Ones Abusing Adderall](http:/
 Oct. 15, 2015 | [Be Suspicious Of Online Movie Ratings, Especially Fandango’s](http://fivethirtyeight.com/features/fandango-movies-ratings/) | `fandango`
 Aug. 14, 2015 | ['Straight Outta Compton' Is The Rare Biopic Not About White Dudes](http://fivethirtyeight.com/features/straight-outta-compton-is-the-rare-biopic-not-about-white-dudes) | `biopics`
 Aug. 6, 2015 | [Every Guest Jon Stewart Ever Had On ‘The Daily Show’](http://fivethirtyeight.com/datalab/every-guest-jon-stewart-ever-had-on-the-daily-show/) | `daily-show-guests`
-July 30 22, 2015 | [Buster Posey’s Pitch Framing Makes Him A Potential MVP](http://fivethirtyeight.com/features/buster-poseys-pitch-framing-makes-him-a-potential-mvp/) | `buster-posey-mvp`
+July 30, 2015 | [Buster Posey’s Pitch Framing Makes Him A Potential MVP](http://fivethirtyeight.com/features/buster-poseys-pitch-framing-makes-him-a-potential-mvp/) | `buster-posey-mvp`
 July 22, 2015 | [What 12 Months Of Record-Setting Temperatures Looks Like Across The U.S.](http://fivethirtyeight.com/features/what-12-months-of-record-setting-temperatures-looks-like-across-the-u-s/) | `us-weather-history`
 June 19, 2015 | [Projecting The Top 50 Players In The 2015 NBA Draft Class](http://fivethirtyeight.com/features/projecting-the-top-50-players-in-the-2015-nba-draft-class/) | `nba-draft-2015`
 June 10, 2015 | [The Most Common Unisex Names In America: Is Yours One Of Them?](http://fivethirtyeight.com/features/there-are-922-unisex-names-in-america-is-yours-one-of-them) | `unisex-names`
